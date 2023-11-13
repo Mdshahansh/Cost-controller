@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mohammad Shahansha Sheikh - Cost Controller</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        header {
+            text-align: center;
+            padding: 20px;
+            background-color: #007bff;
+            color: #fff;
+        }
+
+        section {
+            margin-top: 20px;
+        }
+
+        h1, h2 {
+            color: #007bff;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+
+        .dashboard-section {
+            border: 2px solid #007bff;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 10px;
+        }
+
+        .skills-list {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        .skills-list li {
+            display: inline-block;
+            margin-right: 10px;
+            background-color: #007bff;
+            color: #fff;
+            padding: 5px 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Mohammad Shahansha Sheikh</h1>
+        <p>Cost Controller</p>
+    </header>
+
+    <section class="dashboard-section">
+        <h2>About Me</h2>
+        <p>
+            I am a Cost Controller with a degree in business economics. Currently working at KSB Pumps Arabia Ltd,
+            I specialize in cost analysis, budget management, and financial optimization. My journey includes a
+            commitment to ensuring cost-effectiveness in projects and operations.
+        </p>
+    </section>
+
+    <section class="dashboard-section">
+        <h2>Education</h2>
+        <p>Bachelor's Degree in Business Economics</p>
+    </section>
+
+    <section class="dashboard-section">
+        <h2>Certifications</h2>
+        <ul class="skills-list">
+            <li>Python Certification</li>
+            <li>SQL Certification</li>
+            <li>Finance Market Certification</li>
+        </ul>
+    </section>
+
+    <section class="dashboard-section">
+        <h2>Work Experience</h2>
+        <p>
+            Cost Controller at KSB Pumps Arabia Ltd. In this role, I've successfully implemented cost-saving initiatives,
+            streamlined budgeting processes, and provided valuable financial insights.
+        </p>
+    </section>
+
+    <section class="dashboard-section">
+        <h2>Skills</h2>
+        <ul class="skills-list">
+            <li>Cost Analysis</li>
+            <li>Budget Management</li>
+            <li>Data Analysis</li>
+            <li>Forecasting</li>
+            <li>Risk Assessment</li>
+        </ul>
+    </section>
+
+</body>
+
+</html>
